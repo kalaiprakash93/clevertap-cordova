@@ -23,11 +23,11 @@
 		</config-file>
 
         <config-file target="*-Info.plist" parent="CleverTapAccountID">
-            <string>$CLEVERTAP_ACCOUNT_ID</string>
+            <string>TEST-Z8R-5W5-975Z</string>
         </config-file>
 
         <config-file target="*-Info.plist" parent="CleverTapToken">
-            <string>$CLEVERTAP_TOKEN</string>
+            <string>TEST-505-2b1</string>
         </config-file>
 
         <config-file target="*-Info.plist" parent="CleverTapRegion">
